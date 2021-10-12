@@ -6,7 +6,7 @@ body{
     display:flex;
     padding:10px;
     margin:10px;
-    background-color: palegreen;
+    background: palegreen;
 }
 .assignment img{
     width:200px;
